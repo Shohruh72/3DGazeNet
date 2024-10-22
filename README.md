@@ -6,7 +6,7 @@
 
 ### Structure
 
-- `nn.py`: Defines the U<sup>2</sup>-Net neural network architecture.
+- `nn.py`: Defines the neural network architecture.
 - `util.py`: Contains utility functions and classes.
 - `datasets.py`: Handles data loading, preprocessing, and augmentation.
 - `main.py`: The main executable script that sets up the model, performs training,testing, and inference.
